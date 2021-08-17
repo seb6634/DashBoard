@@ -1,0 +1,1 @@
+/Users/sebastiengonzalez/PycharmProjects/dashBoard/venv/bin/python /Users/sebastiengonzalez/PycharmProjects/dashBoard/src/manage.py runserver
